@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css?family=Karla:weight@400;700&display=swap");
+
+$font: "Karla", sans-serif;
+$primary-color: #FF665A;
+$text-color:black;
+
+body {
+  font-family: $font;
+  color: $primary-color;
+}
+
+body {
+  color: text-color;
+}
+.titulo{
+    margin-top: 100px;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  .conteudo{
+    padding: 90px;
+    width: 50%;
+    margin: auto;
+    height: 350px;
+    text-align: center;
+    background-color: #A3A1A8;
+    margin-top: 100px;
+    border-radius: 20px;
+}
+
+.button{
+    margin-top: 20px;
+
+}
+
+.titulo{
+  margin-top: 100px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.conteudo{
+  max-width: 500px;
+  padding: 70px;
+  width: 60%;
+  margin: auto;
+  height: 350px;
+  text-align: center;
+  background-color: #A3A1A8;
+  margin-top: 100px;
+  border-radius: 20px;
+}
+.form-control{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.btn-primary{
+  margin-bottom: 10px;
+}
+
+.show{
+  margin-top: 10px;
+  color: black;
+  margin-left: 7%;
+  position:fixed,
+}
+
+.titulo{
+  margin-top: 100px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.content{
+  padding-top: 80px !important;
+  padding-left: 90px !important;
+  padding-right: 90px !important;
+  width: 50%;
+  margin: auto;
+  height: 450px;
+  text-align: center;
+  background-color: #A3A1A8;
+  margin-top: 100px;
+  border-radius: 20px;
+}
+
+.conteu{
+  background-color: #FF8C64;
+  margin: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+}
+
+.showw{
+  position: absolute;
+  margin-top: -30px;
+  
+}
+.tit{
+  margin-top: 10px;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.delete{
+  margin-left: 70%;
+}
+
+.cont{
+  color: black;
+  background-color: 'white';
+  max-width: 500px;
+  padding: 70px;
+  width: 60%;
+  margin: auto;
+  height: 350px;
+  text-align: center;
+  border-radius: 20px;
+}
+
+
+.formm{
+  margin-bottom: 40px;
+}
